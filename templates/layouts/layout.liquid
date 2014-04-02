@@ -6,24 +6,27 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed">
         <title>{% block title %}{{ global.title }}{% endblock %}</title>
-        <link rel="shortcut icon" type="image/ico" href="{{ "favicon.ico" | asset_url }}" />
-        {{ "app.css" | asset_url | stylesheet_tag }}
-        <link rel="stylesheet" href="{{ "layout.css" | asset_url }}" media="(min-width:1em)">
-        {{ "modernizr.min.js" | asset_url | script_tag }}
+        {% comment %}{{ "app.css" | asset_url | stylesheet_tag }}{% endcomment %}
+        {{ "reset.css" | asset_url | stylesheet_tag }}
+        {{ "style.css" | asset_url | stylesheet_tag }}
+        {% comment %}<link rel="stylesheet" href="{{ "layout.css" | asset_url }}" media="(min-width:1em)">{% endcomment %}
+        {% comment %}{{ "modernizr.min.js" | asset_url | script_tag }}{% endcomment %}
+        <script type="text/javascript">var __tcaExcludeHostedCss=true;</script>
+        <script type="text/javascript" src="http://typecast.com/project_css/gavinwye/90693a65e910e.js"></script> 
     </head>
     <body>
-        <div class="wrapper">
+        <!-- <div> -->
             {% include "header" %}
-            <div class="content">
-                <article>
+            <!-- <div> -->
+                <section>
                     <h1>{{ model.title }}</h1>
                     {% assign post = model %}
                     {% include "articles/date-tags" %}
                     {% block content %}{% endblock %}
-                </article>
-            </div>
+                </section>
+            <!-- </div> -->
             {% include "footer" %}
-        </div>
+        <!-- </div> -->
         {% include "analytics" %}
     </body>
 </html>

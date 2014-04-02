@@ -1,5 +1,5 @@
 <article>
-	<h2><a href="{{ article.slug }}">{{ article.title }}</a></h2>
+	<h1><a href="{{ article.slug }}">{{ article.title }}</a></h1>
 	{% assign post = article %}
 	{% include "articles/date-tags" %}
 	{% comment %}
@@ -10,7 +10,7 @@
 		<p>{{ article.body | strip_html | truncatewords:50,more }}</p>
 	{% endif %}
 	{% endcomment %}
-	{% capture more %}... <a href="{{ article.slug }}" class="more">Read the post in full</a>{% endcapture %}
-	<p>{{ article.body | strip_html | truncatewords:50,more }}</p>
-	<hr>
+	{% comment %}{% capture more %}... <a href="{{ article.slug }}" class="more">Read the post in full</a>{% endcapture %}{% endcomment %}
+	{% comment %}<p>{{ article.body | strip_html | truncatewords:50,more }}</p>{% endcomment %}
+	{{ article.body }}
 </article>

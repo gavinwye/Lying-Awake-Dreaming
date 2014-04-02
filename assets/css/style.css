@@ -135,6 +135,13 @@ p a:hover {
 	color: rgba(173,57,53,1);
 }
 
+.next{
+	float: right;
+}
+
+/*.next{
+	float: right;
+}*/
 
 p, ol, ul {
 	text-indent: 0em;

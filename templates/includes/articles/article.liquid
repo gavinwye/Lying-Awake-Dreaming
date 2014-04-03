@@ -2,15 +2,6 @@
 	<h1><a href="{{ article.slug }}">{{ article.title }}</a></h1>
 	{% assign post = article %}
 	{% include "articles/date-tags" %}
-	{% comment %}
-	{% if forloop.first and currentpage == 1 %}
-		{{ article.body }}
-	{% else %}
-		{% capture more %}... <a href="{{ article.slug }}" class="more">Read the post in full</a>{% endcapture %}
-		<p>{{ article.body | strip_html | truncatewords:50,more }}</p>
-	{% endif %}
-	{% endcomment %}
-	{% comment %}{% capture more %}... <a href="{{ article.slug }}" class="more">Read the post in full</a>{% endcapture %}{% endcomment %}
-	{% comment %}<p>{{ article.body | strip_html | truncatewords:50,more }}</p>{% endcomment %}
 	{{ article.body }}
+	<p><a href="http://twitter.com/?status=@gavinwye Re: {{ article.title }}">Discuss on Twitter</a></p>
 </article>

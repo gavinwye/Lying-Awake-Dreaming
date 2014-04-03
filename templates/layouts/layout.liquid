@@ -23,6 +23,7 @@
                     {% assign post = model %}
                     {% include "articles/date-tags" %}
                     {% block content %}{% endblock %}
+                    <p><a href="http://twitter.com/?status=@gavinwye Re: {{ model.title }}">Discuss on Twitter</a></p>
                 </section>
             <!-- </div> -->
             {% include "footer" %}

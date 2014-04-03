@@ -17,11 +17,11 @@
     <body>
         <!-- <div> -->
             {% include "header" %}
-            <section>
-                {% block content %}{% endblock %}
-            </section>
+                <section>
+                    {% block content %}{% endblock %}
+                </section>
             {% include "footer" %}
         <!-- </div> -->
-        {% include "analytics" %}
+        {% comment %}{% include "analytics" %}{% endcomment %}
     </body>
 </html>

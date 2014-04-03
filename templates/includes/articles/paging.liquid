@@ -1,14 +1,15 @@
-{% comment %}<div class="paging">{% endcomment %}
+<div class="paging">
 	{% if collection.previous %}
 		{% capture prev %}{{ collection.current_page | minus:1 }}{% endcapture %}
 		{% if prev == "1" %}
-			<p><a href="/" class="previous">Previous</a>
+			<a href="/" class="previous">&#8249; Previous</a>
 		{% else %}
-			<a href="/page-{{ prev }}" class="previous">Previous</a>
+			<a href="/page-{{ prev }}" class="previous">&#8249; Previous</a>
 		{% endif %}
 	{% endif %}
 	{% comment %}<span>Showing items {{ collection.current_offset | plus: 1 }}-{% if collection.next %}{{ collection.current_offset | plus: collection.page_size }}{% else %}{{ collection.size }}{% endif %} of {{ collection.size }}</span>{% endcomment %}
 	{% if collection.next %}
-		<a href="/page-{{ collection.current_page | plus:1 }}" class="next" >Next</a></p>
+		<a href="/page-{{ collection.current_page | plus:1 }}" class="next" >Next &#8250;</a>
+		
 	{% endif %}
-{% comment %}</div>{% endcomment %}
+</div>

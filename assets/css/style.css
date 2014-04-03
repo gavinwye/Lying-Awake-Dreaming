@@ -121,17 +121,17 @@ h2 {
 }
 
 
-p a:link {
+p a:link, .paging a:link {
 	text-decoration: none;
 	color: rgba(173,57,53,1);
 }
 
-p a:visited {
+p a:visited, .paging a:visited {
 	color: rgba(173,57,53,1);
 }
 
 
-p a:hover {
+p a:hover, .paging a:hover {
 	color: rgba(173,57,53,1);
 }
 
@@ -229,6 +229,16 @@ div {
 	margin-right: 150px;
 }
 
+.paging {
+	font-size: 20px;
+	border-top: solid 1px rgba(173,57,53,1);
+	display: block;
+	padding: 10px 70px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: -10px;
+
+}
 
 h3 {
 	line-height: 36px;

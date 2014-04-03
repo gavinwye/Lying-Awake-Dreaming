@@ -1,0 +1,14 @@
+{% layout "index" %}
+{% block content %} 
+    {% collection "experiments" by 1 query 'tags={{ mixture.route.tag }}' order desc %}
+        {% if collection.current_page > collection.pages and collection.size > 0 %}
+            {% include "articles/paged-too-far" %}
+        {% elseif collection.size == 0 %}
+            {% include "articles/no-articles" %}
+        {% else %}
+            {% assign currentpage = collection.current_page %}
+            {% include "articles/article" with collection.items %}
+            {% comment %}{% include "articles/paging" %}{% endcomment %}
+        {% endif %}
+    {% endcollection %}
+{% endblock %}

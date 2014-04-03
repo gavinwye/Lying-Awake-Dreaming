@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Questions About Moving To Jekyll
 date: 2013-08-19
 categories:

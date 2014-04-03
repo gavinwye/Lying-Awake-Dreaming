@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Setting up a site using Drupal
 published: true
 date: 2007-10-05

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Still using word?
 date: 2013-05-20
 categories:

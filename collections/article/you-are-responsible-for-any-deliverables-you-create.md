@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: You are responsible for any deliverables you create
 date: 2013-01-09
 categories:

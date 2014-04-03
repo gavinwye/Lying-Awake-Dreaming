@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: UX Brighton - Mobile usability testing
 date: 2012-07-12
 categories:

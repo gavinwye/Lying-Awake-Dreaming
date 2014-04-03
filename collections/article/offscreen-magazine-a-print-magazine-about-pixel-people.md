@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Offscreen Magazine — a print magazine about pixel people
 date: 2013-01-08
 categories:

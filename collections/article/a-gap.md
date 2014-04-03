@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: A Gap
 date: 2013-05-14
 categories:

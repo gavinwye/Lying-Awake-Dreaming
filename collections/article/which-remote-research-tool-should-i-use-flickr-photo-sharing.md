@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Which remote research tool should I use? | Flickr - Photo Sharing!
 date: 2011-03-01
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Journal of Information Architecture
 date: 2011-02-04
 categories:

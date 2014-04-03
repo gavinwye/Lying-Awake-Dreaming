@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'display: none; and sharing what you know | Laura Kalbag'
 date: 2012-11-22
 categories:

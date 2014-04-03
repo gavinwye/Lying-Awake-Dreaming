@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The Jargon Circle
 date: 2013-04-11
 categories:

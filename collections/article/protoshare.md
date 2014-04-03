@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: ProtoShare
 published: true
 date: 2013-09-24

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Streatham Festival
 date: 2008-06-27
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Responsive Screenshots With Casper | Nettuts+
 date: 2013-07-12
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'RAR Top 100 agencies revealed: WRG claims top spot for 2012 | The Drum'
 date: 2012-11-23
 categories:

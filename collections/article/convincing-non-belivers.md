@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Convincing non belivers
 date: 2008-04-11
 categories:

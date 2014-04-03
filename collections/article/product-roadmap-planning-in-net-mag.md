@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Product Roadmap Planning in .Net Mag
 date: 2013-04-15
 categories:

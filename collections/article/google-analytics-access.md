@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Google analytics access
 date: 2013-05-01
 categories:

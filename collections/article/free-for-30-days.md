@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Free for 30 days
 date: 2013-03-14
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The best project (process) ever!
 date: 2011-06-07
 categories:

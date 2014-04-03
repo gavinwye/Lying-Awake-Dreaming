@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: A Post a Day in May
 date: 2013-05-02
 categories:

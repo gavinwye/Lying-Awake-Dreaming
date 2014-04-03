@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Apple's lead comes under threat - Marketing news - Marketing magazine
 date: 2012-11-23
 categories:

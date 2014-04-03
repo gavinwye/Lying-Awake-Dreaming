@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: A content out approach
 date: 2010-05-11
 categories:

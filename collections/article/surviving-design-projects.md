@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Surviving Design Projects
 date: 2013-01-09
 categories:

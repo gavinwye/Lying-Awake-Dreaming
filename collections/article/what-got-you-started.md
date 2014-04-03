@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: What got you started?
 date: 2012-10-03
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: State Of The Browser - London Web Standards
 date: 2011-02-25
 categories:

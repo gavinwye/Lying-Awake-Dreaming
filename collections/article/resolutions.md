@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Resolutions
 date: 2011-01-08
 categories:

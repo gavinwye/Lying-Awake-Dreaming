@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Dwell time
 date: 2013-01-13
 categories:

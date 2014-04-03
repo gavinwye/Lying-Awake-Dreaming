@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: This UX magic is remarkable
 date: 2010-03-24
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'An Event Apart: What Every Web Designer Should Know | Luke W''s write up of
   Zeldmans Keynote'
 date: 2011-05-03

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: CAPTCHA on BBC Radio 4 - In Touch, 02/10/2012
 date: 2012-10-02
 categories:

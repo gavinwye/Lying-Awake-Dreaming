@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The death of our internet
 date: 2013-06-13
 categories:

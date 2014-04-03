@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The IxDA Speaker Network is Live | IxDA
 date: 2012-12-18
 categories:

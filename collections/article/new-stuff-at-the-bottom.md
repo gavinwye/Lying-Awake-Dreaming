@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: New stuff at the bottom
 date: 2013-03-15
 categories:

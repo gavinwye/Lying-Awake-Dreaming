@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: A Common Visual Language
 date: 2011-01-20
 categories:

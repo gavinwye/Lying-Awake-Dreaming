@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The interesting thing about iOS 7
 date: 2013-06-13
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Your place in the pecking order
 date: 2008-11-27
 categories:

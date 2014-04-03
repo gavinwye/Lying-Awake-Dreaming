@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Magazine Printing | Make a Magazine | Blurb UK
 date: 2013-09-09
 categories:

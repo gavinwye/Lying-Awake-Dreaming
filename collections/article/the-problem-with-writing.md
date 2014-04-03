@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The Problem with Writing
 date: 2012-06-01
 categories:

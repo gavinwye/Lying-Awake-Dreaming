@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Designers Will Code — Design + Startups — Medium
-date; 2013-02-12
+date: 2013-02-12
 categories:
 - Links
 tags:

@@ -1,6 +1,5 @@
 ---
-<!-- layout: post -->
-title: Things to do with Jeykll 1
+title: Things to do with Jeykll
 published: true
 date: 2013-11-12
 ---

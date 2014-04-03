@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Converting sketches to transparent line drawings
 date: 2013-06-21
 categories:

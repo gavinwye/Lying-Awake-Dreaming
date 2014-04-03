@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Unheap - A tidy repository of jQuery plugins
 date: 2013-04-29
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Setting up a SVN repository and working copy
 date: 2007-10-16
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Product Roadmap planning.
 date: 2012-10-04
 categories:

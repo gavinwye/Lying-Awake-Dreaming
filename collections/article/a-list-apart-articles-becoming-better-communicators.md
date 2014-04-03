@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'A List Apart: Articles: Becoming Better Communicators'
 date: 2012-11-21
 categories:

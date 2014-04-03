@@ -1,7 +1,6 @@
 ---
-layout: post
 title: How not to handle opt out's in email marketing
-Date: 2008-07-18
+date: 2008-07-18
 categories:
 - Waffle
 tags:

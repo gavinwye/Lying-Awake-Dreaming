@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: smaply | smart service mapping | digital customer experience mapping
 date: 2013-07-12
 categories:

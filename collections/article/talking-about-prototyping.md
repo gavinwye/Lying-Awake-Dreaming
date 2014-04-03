@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Talking about prototyping
 date: 2013-05-15
 categories:

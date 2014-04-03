@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Artefact Cards - A great idea by John V Willshire…
 date: 2012-07-30
 categories:

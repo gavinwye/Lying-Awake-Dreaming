@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Pirate Metrics - five key metrics for business
 date: 2013-01-16
 categories:

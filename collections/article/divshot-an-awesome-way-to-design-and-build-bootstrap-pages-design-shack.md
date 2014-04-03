@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Divshot: An Awesome Way to Design and Build Bootstrap Pages | Design Shack'
 date: 2012-12-19
 categories:

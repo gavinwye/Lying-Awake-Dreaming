@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The Peak End Rule
 date: 2013-05-16
 categories:

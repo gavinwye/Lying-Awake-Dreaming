@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Are bookmarks really worth it
 date: 2007-11-05
 categories:

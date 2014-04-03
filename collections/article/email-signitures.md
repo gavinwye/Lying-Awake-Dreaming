@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Email signitures
 date: 2013-02-12
 categories:

@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: Restarting the Local DNS server
-Date: 2007-11-14
+date: 2007-11-14
 categories:
 - Waffle
 tags: []

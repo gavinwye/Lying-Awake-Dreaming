@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Finding work
 date: 2012-05-04
 categories:

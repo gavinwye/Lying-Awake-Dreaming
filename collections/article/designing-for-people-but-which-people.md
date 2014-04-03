@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Designing for people but which people
 date: 2013-04-04
 categories:

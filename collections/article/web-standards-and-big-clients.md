@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Web standards and big clients
 date: 2012-04-23
 categories:

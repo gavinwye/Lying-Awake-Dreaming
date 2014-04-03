@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Blueprints | Codrops
 date: 2013-04-29
 categories:

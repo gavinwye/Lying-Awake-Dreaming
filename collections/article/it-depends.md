@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: It depends…
 date: 2013-01-07
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Easel: A WYSIWYG Bootstrap Page Builder | Design Shack'
 date: 2012-12-19
 categories:

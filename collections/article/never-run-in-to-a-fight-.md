@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Never run in to a fight…
 date: 2013-06-13
 categories:

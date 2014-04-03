@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: State of the Internet | Akamai
 date: 2013-08-30
 categories:

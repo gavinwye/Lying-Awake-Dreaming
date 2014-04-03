@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: iOS Simulator
 slug: ios-simulator
 date: 2013-07-04

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: When rules go wrong
 published: true
 date: 2007-08-22

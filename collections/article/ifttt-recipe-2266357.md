@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: IFTTT / Recipe 2266357
 date: 2012-11-21
 categories:

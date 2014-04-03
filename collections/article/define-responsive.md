@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Define :: Responsive'
 date: 2013-04-03
 categories:

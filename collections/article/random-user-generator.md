@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Random User Generator
 date: 2013-09-02
 categories:

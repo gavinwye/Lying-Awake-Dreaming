@@ -459,6 +459,17 @@ footer ul li a:link, footer ul li {
 	
 }
 
+.twitter {
+  display: inline-block;
+  position: absolute;
+  left: auto;
+  right: 1em;
+  top: .8em; }
+  .twitter:hover {
+    color: #00ABF0; }
+    .twitter:hover .icon {
+      fill: #00ABF0; }
+
 /*footer ul li {
 	display: 
 }*/

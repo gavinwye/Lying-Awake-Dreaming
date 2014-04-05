@@ -1,0 +1,108 @@
+
+
+<rss version="2.0">
+	<channel>
+		<generator>Mixture</generator>
+		<title>Lying Awake Dreaming</title>
+		<link>http://link.com</link>
+		<description>The rambelings of an <del> agency</del> designer</description>
+		<language>en</language>
+		<webMaster>mail@yourmail.com</webMaster>
+		<copyright>2014</copyright>
+		<pubDate>Thu, 06 Jun 2013 12:17:05 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2013 12:17:05 GMT</lastBuildDate>
+		
+			<item>
+	<title>Things to do with Jeykll</title>
+	<link>http://link.com/article/things-to-do-with-jeykll</link>
+	<guid>/article/things-to-do-with-jeykll</guid>
+	
+	<pubDate>Tue, 12 Nov 2013 00:00:00 GMT</pubDate>
+	<description>Finally I&amp;#8217;ve got Jeykll up and running, it&amp;#8217;s been a long hard slog. Filled with things that most people would find trivial but for certain programatically challenged individuals it can be a little troublesome getting up and running. I&amp;#8217;ve spent hours wondering why Jeykll wouldn&amp;#8217;t pass a bunch of posts...</description>
+</item><item>
+	<title>ProtoShare</title>
+	<link>http://link.com/article/protoshare</link>
+	<guid>/article/protoshare</guid>
+	
+	<pubDate>Tue, 24 Sep 2013 00:00:00 GMT</pubDate>
+	<description>&lt;!-- categories: - Links tags: - collaboration - delicious - Design - forblog - links - prototype - prototyping - software - tools - webdesign - wireframe - wireframes - wireframing status: publish type: post published: true meta: _wpas_done_all: '1' --&gt; http://www.protoshare.com/ Another prototyping tool ProtoShare is an easy-to-use, collaborative...</description>
+</item><item>
+	<title>Magazine Printing | Make a Magazine | Blurb UK</title>
+	<link>http://link.com/article/magazine-printing-make-a-magazine-blurb-uk</link>
+	<guid>/article/magazine-printing-make-a-magazine-blurb-uk</guid>
+	
+	<category>Links</category>
+	
+	<pubDate>Mon, 09 Sep 2013 00:00:00 GMT</pubDate>
+	<description>http://www.blurb.co.uk/magazine Looks like a great way to get large documents or specs printed even though I normally advocate building a site for a project. Printed on demand, our Magazines are simple to design and easy to update as you'd like. And they start at just £6.99, making them so affordable...</description>
+</item><item>
+	<title>Random User Generator</title>
+	<link>http://link.com/article/random-user-generator</link>
+	<guid>/article/random-user-generator</guid>
+	
+	<category>Links</category>
+	
+	<pubDate>Mon, 02 Sep 2013 00:00:00 GMT</pubDate>
+	<description>http://randomuser.me/ A nice way to generate random profiles for web apps etc. &amp;gt; RandomUser is an API that provides you with a randomly generated user. These users can be used as placeholders in web mockups, and will save you time from creating your own placeholder information. Delicious incorrectly recommended the...</description>
+</item><item>
+	<title>State of the Internet | Akamai</title>
+	<link>http://link.com/article/state-of-the-internet-akamai</link>
+	<guid>/article/state-of-the-internet-akamai</guid>
+	
+	<category>Links</category>
+	
+	<pubDate>Fri, 30 Aug 2013 00:00:00 GMT</pubDate>
+	<description>
+http://www.akamai.com/stateoftheinternet/
+&amp;gt; Each quarter, Akamai publishes its &amp;quot;State of the Internet&amp;quot; report, based on data gathered across Akamai’s global server network. &amp;quot;State of the Internet&amp;quot; highlights attack traffic, connection speeds, Internet penetration, broadband adoption, and mobile usage, as well as trends seen in this data over time.
+</description>
+</item><item>
+	<title>Questions About Moving To Jekyll</title>
+	<link>http://link.com/article/questions-about-moving-to-jekyll</link>
+	<guid>/article/questions-about-moving-to-jekyll</guid>
+	
+	<category>Waffle</category>
+	
+	<pubDate>Mon, 19 Aug 2013 00:00:00 GMT</pubDate>
+	<description>I’ve been thinking for a while that I wanted to move this blog away from Wordpress. I don’t use all of the features that Wordpress has to offer so Jekyll seems a bit more simple, a bit more light weight. There are three main thoughts driving this: On the face...</description>
+</item><item>
+	<title>Responsive Screenshots With Casper | Nettuts+</title>
+	<link>http://link.com/article/responsive-screenshots-with-casper-nettuts</link>
+	<guid>/article/responsive-screenshots-with-casper-nettuts</guid>
+	
+	<category>Links</category>
+	
+	<pubDate>Fri, 12 Jul 2013 00:00:00 GMT</pubDate>
+	<description>http://net.tutsplus.com/tutorials/javascript-ajax/responsive-screenshots-with-casper/ Capturing screenshots is annoying, but most of time it has to be done and usually it’s you – The Developer – who has to do it. Taking a few screenshots isn’t too bad, but lets say for example that now you are working on a website using Responsive Web...</description>
+</item><item>
+	<title>smaply | smart service mapping | digital customer experience mapping</title>
+	<link>http://link.com/article/smaply-smart-service-mapping-digital-customer-experience-mapping</link>
+	<guid>/article/smaply-smart-service-mapping-digital-customer-experience-mapping</guid>
+	
+	<category>Links</category>
+	
+	<pubDate>Fri, 12 Jul 2013 00:00:00 GMT</pubDate>
+	<description>
+https://www.smaply.com/early-access
+Only in alpha at the moment and you have to pay once they get in to beta which isn't a problem as it looks really good
+</description>
+</item><item>
+	<title>iOS Simulator</title>
+	<link>http://link.com/article/ios-simulator</link>
+	<guid>/article/ios-simulator</guid>
+	
+	<category>Design</category>
+	
+	<pubDate>Thu, 04 Jul 2013 00:00:00 GMT</pubDate>
+	<description>There is a little known app called iOS simulator which I use from time to time when designing responsive sites. It’s a lot easier to get a site which is running locally as most things are in the really early stages of a project. It makes it really quick for...</description>
+</item><item>
+	<title>An example Markdown post</title>
+	<link>http://link.com/article/markdown-example</link>
+	<guid>/article/markdown-example</guid>
+	
+	<pubDate>Tue, 11 Jun 2013 00:00:00 GMT</pubDate>
+	<description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. &amp;#8220;Lorem ipsum dolor sit amet&amp;#8221; Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim...</description>
+</item>
+		
+	</channel>
+</rss>

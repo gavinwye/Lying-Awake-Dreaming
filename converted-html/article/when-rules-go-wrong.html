@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="alternate" type="application/rss+xml" href="../rss.html" title="RSS Feed">
+        <title>Lying Awake Dreaming</title>
+        
+        <link href="../assets/css/reset.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="../assets/css/style.min.css" rel="stylesheet" type="text/css" media="all"/>
+        
+        
+        <script type="text/javascript">var __tcaExcludeHostedCss=true;</script>
+        <script type="text/javascript" src="http://typecast.com/project_css/gavinwye/90693a65e910e.js"></script> 
+    </head>
+    <body>
+        <!-- <div> -->
+            <header>
+	<div>
+		
+		<h1 class="title"><a href="../index.html">Lying Awake Dreaming</a></h1>
+		<p class="author">The rambelings of an <del> agency</del> designer</p>
+			
+	</div>
+</header>
+<nav>
+	<ul class="nav">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../experiments.html">Experiments</a></li>
+		<li><a href="../guiding-principles.html">Guiding Principles</a></li>
+		<!-- <li><a href="/links">Links</a></li> -->
+		<!-- <li><a href="about/">About</a></li> -->
+		<li><a href="../archive.html">Post Archive</a></li>
+	</ul>
+</nav>
+            <!-- <div> -->
+                <section>
+                    <h1>When rules go wrong</h1>
+                    
+                    <!-- <div class="date"> -->
+<p class="meta">Posted: Wed Aug 22, 2007</p>
+	
+<!-- </div> -->
+                    
+<p>I use Apple&#8217;s Mail.app which is fine it is integrated nicely in to my work flow, It links to <a title="Daylight" href="http://marketcircle.com/daylite/index.html" target="_blank">Daylight</a> via DMI and most of the time it just works. However I get a lot of mail and I&#8217;ve been getting more and more busy lately so I have stopped checking the not important stuff. The sort of stuff that I don&#8217;t want to junk but don&#8217;t want to read now.</p>
+
+<p>So I created a rule quickly (which is where everything went wrong) to put everything from the people whose mail I hadn&#8217;t read in the last month in a folder called NQJBNTI (Not Quite Junk But Not That Important). I did it just before <a title="Business Bricks" href="http://upcoming.yahoo.com/event/215585/" target="_blank">Business Bricks</a> on Friday and then someone came in so I didn&#8217;t finish the task properly. I just shut my laptop and forgot about it.</p>
+
+<p>Because I had forgotten about the rule and not checked my mail for the rest of Friday or the weekend by the time it got to Monday and I checked my mail and didn&#8217;t get some mails from people who had sent them to me I immediately thought it must have been a problem with the mail server.</p>
+
+<p>I spoke to <a title="Symon" href="http://homepage.mac.com/symonc/" target="_blank">Symon</a> and he told me to telnet in to the mail server so that I could see if there was mail there (this is apparently the same protocol as mail.app uses) so that proves that mail is working. I installed Packet Peeper to sniff the packets and everything is working fine. I created a new mail account and could receive mail on that account. So the server is working and so is mail.app. Then Dave said the only thing left is a problem with rules but I can&#8217;t see that being a problem! Rules I did something in there on Friday! I checked and the rule was set to exclude all mail from my in box unless it was from one person. Doh!</p>
+
+<p>So the moral of the story is check the simple stuff first, and try and remember what you did yesterday!</p>
+
+<p>Anyway the real point of this post is here&#8217;s how to telnet in to a mail server which I found really cool. I love stuff like this and here&#8217;s a record for when I forget.</p>
+
+<p>Open the terminal<br />
+at the prompt ($) type telnet mailservername 110<br />
+you should get a message back like Ok hello there<br />
+type the following<br />
+USER username<br />
+It will then ask for the password for the account type:<br />
+PASS password<br />
+you should then get a logged in message<br />
+type list<br />
+you will then see a list of all the mail on the serve to read the mail type<br />
+retr 1 (where 1 is the number of the mail)<br />
+to quit type quit</p>
+
+                    <p><a href="http://twitter.com/?status=@gavinwye Re: When rules go wrong">Discuss on Twitter</a></p>
+                </section>
+            <!-- </div> -->
+            <footer>
+
+	<section>
+
+		<div class="about-me">
+
+			<h5 >About Gavin</h5>
+
+			<img src="../assets/img/gavin-wye.jpg">
+
+			<p>My name is Gavin Wye I'm a User Experience Designer and Consultant with 11 years experience. In the past I have worked with client such as Nando's, J.K.Rowlings' <a href="http://www.pottermore.com" style="">Pottermore</a>, Visa, Channel4 and National Rail Enquiries.</p>
+
+			<p>I live in Tynemouth a small village on the North East coast of England.</p>
+
+			<p>Follow me on <a href="https://www.twitter.com/gavinwye" rel="me">Twitter</a> for general waffle.</p>
+
+			<h6>Elsewhere</h6>
+
+			<ul class="cols">
+				<li><a href="https://foursquare.com/gavinwye" rel="me" target="">Foursquare</a></li>
+				<li><a href="https://github.com/gavinwye" rel="me" target="" >Github</a></li>
+				<li><a href="https://plus.google.com/u/0/112616323023216834121/posts" rel="me" target="" >Google +</a></li>
+				<li><a href="https://gavinwye.jux.com/" rel="me" target="" >Jux</a></li>
+				<li><a href="http://www.linkedin.com/in/gavinwye" rel="me" target="" >Linked In</a></li>
+				<li><a href="http://www.meetup.com/members/8427678/" rel="me" target="" >Meetup</a></li>
+				<li><a href="http://www.readability.com/gavinwye/" rel="me" title="Stuff I really should get round to reading">Readability</a></li>
+				<li><a href="http://www.slideshare.net/gavinwye" rel="me" title="A social network for slides" target="_blank">Slide Share</a></li>
+				<li><a href="https://twitter.com/gavinwye" rel="me" target="">Twitter</a></li>
+				<li><a href="https://vimeo.com/gavinwye" rel="me" target="" >Vimeo</a></li>
+				<li><a href="https://www.vizify.com/gavin-wye" rel="me" target="" >Visify</a></li>
+				<li><a href="http://www.think.eu/people/article/gavin-wye" rel="me" target="" >Work</a></li>
+				<li><a href="https://workfu.com/gavinwye" rel="me" title="Helps you get work" target="">Workfu</a></li>
+			</ul>
+
+		</div>
+
+	</section>
+
+</footer>
+
+        <!-- </div> -->
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </body>
+</html>

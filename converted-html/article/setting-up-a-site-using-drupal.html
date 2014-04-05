@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="alternate" type="application/rss+xml" href="../rss.html" title="RSS Feed">
+        <title>Lying Awake Dreaming</title>
+        
+        <link href="../assets/css/reset.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="../assets/css/style.min.css" rel="stylesheet" type="text/css" media="all"/>
+        
+        
+        <script type="text/javascript">var __tcaExcludeHostedCss=true;</script>
+        <script type="text/javascript" src="http://typecast.com/project_css/gavinwye/90693a65e910e.js"></script> 
+    </head>
+    <body>
+        <!-- <div> -->
+            <header>
+	<div>
+		
+		<h1 class="title"><a href="../index.html">Lying Awake Dreaming</a></h1>
+		<p class="author">The rambelings of an <del> agency</del> designer</p>
+			
+	</div>
+</header>
+<nav>
+	<ul class="nav">
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../experiments.html">Experiments</a></li>
+		<li><a href="../guiding-principles.html">Guiding Principles</a></li>
+		<!-- <li><a href="/links">Links</a></li> -->
+		<!-- <li><a href="about/">About</a></li> -->
+		<li><a href="../archive.html">Post Archive</a></li>
+	</ul>
+</nav>
+            <!-- <div> -->
+                <section>
+                    <h1>Setting up a site using Drupal</h1>
+                    
+                    <!-- <div class="date"> -->
+<p class="meta">Posted: Fri Oct 05, 2007</p>
+	
+<!-- </div> -->
+                    
+<p>These are the things that I need to do in order to set up a new site.</p>
+<ol>
+	<li>create the directory in the SVN repository on the server.</li>
+	<li>edit the httpd.conf file locally to set up the virtual host, <em>located at /etc/httpd/</em>.</li>
+	<li>edit the local hosts file<em> located at /etc/hosts</em>.</li>
+	<li>copy an instance in the standard drupal files in to the place where the working copy is going to be kept in my case <em>/Volumes/Local_Work/svn/*siteroot*</em>.</li>
+	<li>go to the alias that you have set up in the hosts file which should match the alias that you set up in the httpd.conf file.</li>
+	<li>you should see the drupal page telling you that it cant access the database.</li>
+	<li>open your MySQL GUI create a new database.</li>
+	<li>change the permissions on the settings file to 777 (just for the time being) in the drupal site. <em>located at /sites/default/</em></li>
+	<li>go back to your browser and refresh the page you should now see a page asking you to set up the database.</li>
+	<li>change the database to the same name as the one you set up in step 7.</li>
+	<li>you then have to log in to the drupal site (normally this is when I create the admin user and password if it's local I just use a crap password but don't forget to change it later once its semi live).</li>
+	<li>thats it you should now be able to customise the site.</li>
+</ol>
+
+                    <p><a href="http://twitter.com/?status=@gavinwye Re: Setting up a site using Drupal">Discuss on Twitter</a></p>
+                </section>
+            <!-- </div> -->
+            <footer>
+
+	<section>
+
+		<div class="about-me">
+
+			<h5 >About Gavin</h5>
+
+			<img src="../assets/img/gavin-wye.jpg">
+
+			<p>My name is Gavin Wye I'm a User Experience Designer and Consultant with 11 years experience. In the past I have worked with client such as Nando's, J.K.Rowlings' <a href="http://www.pottermore.com" style="">Pottermore</a>, Visa, Channel4 and National Rail Enquiries.</p>
+
+			<p>I live in Tynemouth a small village on the North East coast of England.</p>
+
+			<p>Follow me on <a href="https://www.twitter.com/gavinwye" rel="me">Twitter</a> for general waffle.</p>
+
+			<h6>Elsewhere</h6>
+
+			<ul class="cols">
+				<li><a href="https://foursquare.com/gavinwye" rel="me" target="">Foursquare</a></li>
+				<li><a href="https://github.com/gavinwye" rel="me" target="" >Github</a></li>
+				<li><a href="https://plus.google.com/u/0/112616323023216834121/posts" rel="me" target="" >Google +</a></li>
+				<li><a href="https://gavinwye.jux.com/" rel="me" target="" >Jux</a></li>
+				<li><a href="http://www.linkedin.com/in/gavinwye" rel="me" target="" >Linked In</a></li>
+				<li><a href="http://www.meetup.com/members/8427678/" rel="me" target="" >Meetup</a></li>
+				<li><a href="http://www.readability.com/gavinwye/" rel="me" title="Stuff I really should get round to reading">Readability</a></li>
+				<li><a href="http://www.slideshare.net/gavinwye" rel="me" title="A social network for slides" target="_blank">Slide Share</a></li>
+				<li><a href="https://twitter.com/gavinwye" rel="me" target="">Twitter</a></li>
+				<li><a href="https://vimeo.com/gavinwye" rel="me" target="" >Vimeo</a></li>
+				<li><a href="https://www.vizify.com/gavin-wye" rel="me" target="" >Visify</a></li>
+				<li><a href="http://www.think.eu/people/article/gavin-wye" rel="me" target="" >Work</a></li>
+				<li><a href="https://workfu.com/gavinwye" rel="me" title="Helps you get work" target="">Workfu</a></li>
+			</ul>
+
+		</div>
+
+	</section>
+
+</footer>
+
+        <!-- </div> -->
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </body>
+</html>

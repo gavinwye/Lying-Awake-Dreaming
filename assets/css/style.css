@@ -21,7 +21,8 @@ header {
 
 section, nav, header div {
 	margin: 0 auto;
-	width: 670px;
+	/*width: 670px;*/
+	width: 80%
 }
 
 
@@ -51,34 +52,6 @@ margin-bottom: 36px;
 	/*margin-bottom: -100px;*/
 	padding-top: 30px;
 }
-
-.left-arrow {
-	float: left;
-	margin-top: -7px;
-	margin-left: -200px;
-	/*padding-top: 60px;*/
-	/*margin-right: 30px;*/
-	/*margin-top: 31px;*/
-}
-
-
-.right-arrow {
-	float: right;
-	margin-top: -7px;
-	margin-right: -200px;
-	/*padding-top: 60px;*/
-	/* Safari */
-	-webkit-transform: rotate(180deg);
-	/* Firefox */
-	-moz-transform: rotate(180deg);
-	/* IE */
-	-ms-transform: rotate(180deg);
-	/* Opera */
-	-o-transform: rotate(180deg);
-	/* Internet Explorer */
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-}
-
 
 blockquote {
 	margin-bottom: 25px;
@@ -277,6 +250,7 @@ h1.title, header h1.title a {
 	/*text-align: center;*/
 	text-align: left;
 	text-decoration: none;
+	white-space: nowrap;
 }
 
 
@@ -506,14 +480,6 @@ and (max-width : 320px) {*/
 @media only screen and (max-width: 320px) {
 	
 		body {
-		font-family: skolar;
-		font-size: 16px;
-		line-height: 25px;
-		/*background-color: rgba(237,237,237,1);*/
-		font-style: normal;
-		font-weight: 400;
-		color: rgba(81,81,81,1);
-		color: white;
 		/*background-color: blue;*/
 	}
 
@@ -529,18 +495,18 @@ and (max-width : 320px) {*/
 
 	section, nav, header div {
 		margin: 0 20px;
-		width: 300px;
+		width: 80%;
 	}
 
 
-	.about-me, .elsewhere{
+	/*.about-me, .elsewhere{
 		width: 50%;
 		margin: 0px 0px 0px 60px;
-	}
+	}*/
 
-	.about-me {
+	/*.about-me {
 	margin-left: 0px;
-	}
+	}*/
 
 	.elsewhere {
 		float: right;
@@ -559,49 +525,6 @@ and (max-width : 320px) {*/
 		/*margin-bottom: -100px;*/
 		padding-top: 30px;
 	}
-
-	.left-arrow {
-		float: left;
-		margin-top: -7px;
-		margin-left: -200px;
-		/*padding-top: 60px;*/
-		/*margin-right: 30px;*/
-		/*margin-top: 31px;*/
-	}
-
-
-	.right-arrow {
-		float: right;
-		margin-top: -7px;
-		margin-right: -200px;
-		/*padding-top: 60px;*/
-		/* Safari */
-		-webkit-transform: rotate(180deg);
-		/* Firefox */
-		-moz-transform: rotate(180deg);
-		/* IE */
-		-ms-transform: rotate(180deg);
-		/* Opera */
-		-o-transform: rotate(180deg);
-		/* Internet Explorer */
-		filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-	}
-
-
-	blockquote {
-		margin-bottom: 25px;
-		margin-top: 25px;
-		margin-left: 32px;
-		font-size: 32px;
-		line-height: 50px;
-		text-align: left;
-		font-family: "skolar",serif;
-		font-style: italic;
-		font-weight: 400;
-		/*text-indent: 16px;*/
-		color: rgba(140,138,138,1);
-	}
-
 
 	h1 {
 		font-size: 30px;
@@ -979,17 +902,9 @@ and (max-width : 320px) {*/
 /*@media only screen and (min-width: 480px) */
 @media only screen and (min-width: 321px) and (max-width: 568px){
 	
-		body {
-		font-family: skolar;
-		font-size: 16px;
-		line-height: 25px;
-		/*background-color: rgba(237,237,237,1);*/
-		font-style: normal;
-		font-weight: 400;
-		color: rgba(81,81,81,1);
-		color: white;
+	body {
 		/*background-color: red;*/
-	}
+		}
 
 	header {
 		margin: 0 auto;
@@ -1012,9 +927,9 @@ and (max-width : 320px) {*/
 		margin: 0px 0px 0px 60px;
 	}
 
-	.about-me {
+	/*.about-me {
 	margin-left: 0px;
-	}
+	}*/
 
 	.elsewhere {
 		float: right;
@@ -1033,49 +948,6 @@ and (max-width : 320px) {*/
 		/*margin-bottom: -100px;*/
 		padding-top: 30px;
 	}
-
-	.left-arrow {
-		float: left;
-		margin-top: -7px;
-		margin-left: -200px;
-		/*padding-top: 60px;*/
-		/*margin-right: 30px;*/
-		/*margin-top: 31px;*/
-	}
-
-
-	.right-arrow {
-		float: right;
-		margin-top: -7px;
-		margin-right: -200px;
-		/*padding-top: 60px;*/
-		/* Safari */
-		-webkit-transform: rotate(180deg);
-		/* Firefox */
-		-moz-transform: rotate(180deg);
-		/* IE */
-		-ms-transform: rotate(180deg);
-		/* Opera */
-		-o-transform: rotate(180deg);
-		/* Internet Explorer */
-		filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-	}
-
-
-	blockquote {
-		margin-bottom: 25px;
-		margin-top: 25px;
-		margin-left: 32px;
-		font-size: 32px;
-		line-height: 50px;
-		text-align: left;
-		font-family: "skolar",serif;
-		font-style: italic;
-		font-weight: 400;
-		/*text-indent: 16px;*/
-		color: rgba(140,138,138,1);
-	}
-
 
 	h1 {
 		font-size: 30px;

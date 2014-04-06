@@ -1734,12 +1734,28 @@ footer ul li a:link, footer ul li {
 	.highlight{
 		color: rgba(173,57,53,1);
 		
+	}
 }
-/*@media only screen and (min-width: 641px) and (max-width: 1000px){
-	section{
+@media only screen and (min-width: 641px) and (max-width: 800px){
+	section, nav, header div {
+		width: 600px;
+	}
+	h1.title, header h1.title a {
+		font-size: 53px;
+	}
+	h1{
+		font-size: 49px;
+	}
+	body{
+		/*background-color: red;*/
+	}
+}
+
+@media only screen and (min-width: 801px){
+	section, nav, header div {
 		width: 710px;
 	}
 	body{
-		background-color: red;
+		/*background-color: green;*/
 	}
-}*/
+}

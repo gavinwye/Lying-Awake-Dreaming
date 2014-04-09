@@ -66,15 +66,6 @@ http://www.akamai.com/stateoftheinternet/
 	<pubDate>Mon, 19 Aug 2013 00:00:00 GMT</pubDate>
 	<description>I’ve been thinking for a while that I wanted to move this blog away from Wordpress. I don’t use all of the features that Wordpress has to offer so Jekyll seems a bit more simple, a bit more light weight. There are three main thoughts driving this: On the face...</description>
 </item><item>
-	<title>Responsive Screenshots With Casper | Nettuts+</title>
-	<link>http://link.com/article/responsive-screenshots-with-casper-nettuts</link>
-	<guid>/article/responsive-screenshots-with-casper-nettuts</guid>
-	
-	<category>Links</category>
-	
-	<pubDate>Fri, 12 Jul 2013 00:00:00 GMT</pubDate>
-	<description>http://net.tutsplus.com/tutorials/javascript-ajax/responsive-screenshots-with-casper/ Capturing screenshots is annoying, but most of time it has to be done and usually it’s you – The Developer – who has to do it. Taking a few screenshots isn’t too bad, but lets say for example that now you are working on a website using Responsive Web...</description>
-</item><item>
 	<title>smaply | smart service mapping | digital customer experience mapping</title>
 	<link>http://link.com/article/smaply-smart-service-mapping-digital-customer-experience-mapping</link>
 	<guid>/article/smaply-smart-service-mapping-digital-customer-experience-mapping</guid>
@@ -86,6 +77,15 @@ http://www.akamai.com/stateoftheinternet/
 https://www.smaply.com/early-access
 Only in alpha at the moment and you have to pay once they get in to beta which isn't a problem as it looks really good
 </description>
+</item><item>
+	<title>Responsive Screenshots With Casper | Nettuts+</title>
+	<link>http://link.com/article/responsive-screenshots-with-casper-nettuts</link>
+	<guid>/article/responsive-screenshots-with-casper-nettuts</guid>
+	
+	<category>Links</category>
+	
+	<pubDate>Fri, 12 Jul 2013 00:00:00 GMT</pubDate>
+	<description>http://net.tutsplus.com/tutorials/javascript-ajax/responsive-screenshots-with-casper/ Capturing screenshots is annoying, but most of time it has to be done and usually it’s you – The Developer – who has to do it. Taking a few screenshots isn’t too bad, but lets say for example that now you are working on a website using Responsive Web...</description>
 </item><item>
 	<title>iOS Simulator</title>
 	<link>http://link.com/article/ios-simulator</link>

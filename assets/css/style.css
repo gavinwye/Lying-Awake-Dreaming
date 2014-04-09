@@ -138,7 +138,7 @@ ol li{
 }
 
 ul li{
-	list-style: disc;
+	list-style: none;
 	white-space: nowrap;
 }
 

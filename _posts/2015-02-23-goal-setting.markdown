@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goal Setting
-status: publish
+publish: false
 type: post
 published: true
 ---

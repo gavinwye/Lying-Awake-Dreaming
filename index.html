@@ -1,0 +1,10 @@
+---
+layout: home
+---
+<section>
+	<article>
+		{% assign post = site.posts.first %}
+		{% assign content = post.content %}
+		{% include post_detail.html %}	
+	</article>
+</section>

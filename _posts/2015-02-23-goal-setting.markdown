@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Goal Setting
-publish: false
+status: publish
 type: post
-published: true
+published: false
 ---
 
 Setting goals is easy.

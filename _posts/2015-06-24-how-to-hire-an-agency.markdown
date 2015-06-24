@@ -1,18 +1,18 @@
--
+---
 layout: post
 title: How to hire a design agency
 status: publish
 type: post
 published: true
-—
+---
 
 
 I’ve just been asked for some advice about hiring an agency. Rather than keep this locked up here it is.
 
 The answer to this is it depends on what you are trying to achieve. But here are some key things to look out for and think about before speaking to anyone.
 
-- Be clear about the problem you are trying to solve in your own mind. Write it down it will help to clarify it. 
-- Know your budget, and tell the agency what it is, it will help the agency pitch the project at the right level. 
+- Be clear about the problem you are trying to solve in your own mind. Write it down it will help to clarify it.
+- Know your budget, and tell the agency what it is, it will help the agency pitch the project at the right level.
 - Do you need an agency would a group of well regarded freelancers/micro agency do the same job. These people tent to be the experts. Without account managers and project managers getting in the way so for a small project it may work out to be more effective. Look out for people like http://nodivide.us/who-we-are (based in Leeds).
 - If you decide you do want an agency be sure you get face time with the people who are doing the work. An account manager is there to sell you stuff. Ensure that one person will be your point of contact. They should be able to answer your questions rater than acting as a go between.
 - Don’t look for your project in their portfolio. Look for the way they have solved other peoples problems.
@@ -24,6 +24,3 @@ The answer to this is it depends on what you are trying to achieve. But here are
 Some of the points above are stolen from a post on Medium by Mike Monteiro titled [These 8 Tricks to Selecting a Design Partner Will Amaze You](https://medium.com/@monteiro/these-8-tricks-to-selecting-a-design-partner-will-amaze-you-84f40d290296) which is well worth a read.
 
 I would also recommend anyone working with an agency or designer for the first time should by and read his book [You’re my favourite client](http://abookapart.com/products/youre-my-favorite-client).
-
-
-

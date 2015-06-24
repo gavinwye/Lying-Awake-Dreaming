@@ -1,4 +1,11 @@
-# How to hire a design agency
+-
+layout: post
+title: How to hire a design agency
+status: publish
+type: post
+published: true
+—
+
 
 I’ve just been asked for some advice about hiring an agency. Rather than keep this locked up here it is.
 

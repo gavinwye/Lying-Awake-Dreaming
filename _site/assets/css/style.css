@@ -578,14 +578,14 @@ footer ul li a:link, footer ul li {
 		width: 280px;
 	}
 
-	/*ol li{
+	ol li{
 		list-style: decimal;
-
+		width: 96%;
 	}
 
-	ul li{
-		list-style: disc;
-	}*/
+/* 	ul li{
+	list-style: disc;
+} */
 
 
 	p.author {
@@ -1006,11 +1006,12 @@ footer ul li a:link, footer ul li {
 		width: 100%;
 	}
 
-	/*ol li{
+
+	ol li{
 		list-style: decimal;
-
+		width: 94%;
 	}
-
+/*
 	ul li{
 		list-style: disc;
 		white-space: nowrap;

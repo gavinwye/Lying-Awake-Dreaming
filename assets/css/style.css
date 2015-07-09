@@ -132,8 +132,13 @@ p, ol, ul {
 	text-align: left;
 }
 
+ol{
+	margin-left: 25px;
+}
+
 ol li{
 	list-style: decimal;
+	width: 96%;
 
 }
 
@@ -317,7 +322,7 @@ p.meta a:hover {
 
 li a{
 color: rgba(173,57,53,1);
-text-decoration: none;	
+text-decoration: none;
 }
 
 
@@ -432,7 +437,7 @@ footer ul li a:link, footer ul li {
 
 .highlight{
 	color: rgba(173,57,53,1);
-	
+
 }
 
 .twitter {
@@ -460,7 +465,7 @@ footer ul li a:link, footer ul li {
 /*////////////////////////////////////////////////////////////////////////////////////////////////*/
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width: 320px) {
-	
+
 		body {
 		/*background-color: blue;*/
 	}
@@ -757,7 +762,7 @@ footer ul li a:link, footer ul li {
 
 	li a{
 	color: rgba(173,57,53,1);
-	text-decoration: none;	
+	text-decoration: none;
 	}
 
 
@@ -873,7 +878,7 @@ footer ul li a:link, footer ul li {
 
 	.highlight{
 		color: rgba(173,57,53,1);
-		
+
 	}
 
 }
@@ -886,7 +891,7 @@ footer ul li a:link, footer ul li {
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-width: 321px) and (max-width: 568px){
 
-	
+
 	body {
 		/*background-color: red;*/
 		}
@@ -1186,7 +1191,7 @@ footer ul li a:link, footer ul li {
 
 	li a{
 	color: rgba(173,57,53,1);
-	text-decoration: none;	
+	text-decoration: none;
 	}
 
 
@@ -1301,7 +1306,7 @@ footer ul li a:link, footer ul li {
 
 	.highlight{
 		color: rgba(173,57,53,1);
-		
+
 }
 
 
@@ -1316,7 +1321,7 @@ footer ul li a:link, footer ul li {
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-width: 568px) and (max-width: 640px){
 
-	
+
 	body {
 		/*background-color: red;*/
 		}
@@ -1616,7 +1621,7 @@ footer ul li a:link, footer ul li {
 
 	li a{
 	color: rgba(173,57,53,1);
-	text-decoration: none;	
+	text-decoration: none;
 	}
 
 
@@ -1731,7 +1736,7 @@ footer ul li a:link, footer ul li {
 
 	.highlight{
 		color: rgba(173,57,53,1);
-		
+
 	}
 }
 @media only screen and (min-width: 641px) and (max-width: 800px){

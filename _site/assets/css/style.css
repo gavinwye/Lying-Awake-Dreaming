@@ -28,7 +28,7 @@ section, nav, header div {
 
 .about-me, .elsewhere{
 	width: 80%;
-	margin: 0px 0px 0px 60px;
+	margin: 0px 0px 0px 0px;
 }
 
 .about-me {
@@ -130,6 +130,7 @@ p, ol, ul {
 	font-style: normal;
 	font-weight: 400;
 	text-align: left;
+	width: 96%;
 }
 
 ol{
@@ -138,7 +139,7 @@ ol{
 
 ol li{
 	list-style: decimal;
-	width: 96%;
+
 
 }
 

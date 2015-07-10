@@ -575,12 +575,12 @@ footer ul li a:link, footer ul li {
 		font-style: normal;
 		font-weight: 400;
 		text-align: left;
-		width: 280px;
+		width: 96%;
 	}
 
 	ol li{
 		list-style: decimal;
-		width: 96%;
+		/* width: 96%; */
 	}
 
 /* 	ul li{

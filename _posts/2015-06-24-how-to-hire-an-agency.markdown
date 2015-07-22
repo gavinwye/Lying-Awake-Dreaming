@@ -31,4 +31,4 @@ The answer to this is it depends on what you are trying to achieve. But here are
 
 Some of the points above are stolen from a post on Medium by Mike Monteiro titled [These 8 Tricks to Selecting a Design Partner Will Amaze You](https://medium.com/@monteiro/these-8-tricks-to-selecting-a-design-partner-will-amaze-you-84f40d290296) which is well worth a read.
 
-I would also recommend anyone working with an agency or designer for the first time should by and read his book [You’re my favourite client](http://abookapart.com/products/youre-my-favorite-client).
+I would also recommend anyone working with an agency or designer for the first time should buy and read his book [You’re my favourite client](http://abookapart.com/products/youre-my-favorite-client).
